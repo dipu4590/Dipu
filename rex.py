@@ -6,8 +6,9 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters   # Import the TOKEN and ADMIN_ID variables
 from datetime import datetime  # Import datetime for expiry checking
 
-ADMIN_ID = 6073143283
-TOKEN = "7461061423:AAHQJWCs0ZDk9MlFW0uoF94uyUswcgyHRwY"
+ADMIN_ID = 6566047404
+TOKEN = "8092192443:AAHuDxXrjUTFrO6n_ig-W_Icp9wg1z612tg
+"
 
 
 # Set up logging
